@@ -19,16 +19,6 @@
       "id": 4,
       "name": "Setup fetch",
       "isComplete": true
-    },
-    {
-      "id": 41550,
-      "name": "Create app",
-      "isComplete": false
-    },
-    {
-      "id": 37658,
-      "name": "Finished tutorial",
-      "isComplete": false
     }
   ]
 }
