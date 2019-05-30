@@ -21,8 +21,13 @@
       "isComplete": false
     },
     {
-      "id": 57113,
-      "name": "aa",
+      "id": 41550,
+      "name": "Create app",
+      "isComplete": false
+    },
+    {
+      "id": 37658,
+      "name": "Finished tutorial",
       "isComplete": false
     }
   ]
